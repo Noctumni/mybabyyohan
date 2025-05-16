@@ -16,4 +16,4 @@ async def on_ready():
 async def owoify(ctx, *, text):
     await ctx.send(utils.owoify(text))
 
-bot.run("MTM3MjkzMzQ0OTE1Mjg1NjIyNA.G6YhNR.qMHbJXCSCnnK9ZfMnOYP0lGG9isF13GjX9BKQY")
+bot.run("MY_DISCORD_TOKEN")
